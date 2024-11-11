@@ -1,8 +1,55 @@
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
 First, run the development server:
+
+# 🌟 Admin Dashboard Assignment
+
+Welcome to the **Admin Dashboard**! This project is designed to provide a functional, responsive, and intuitive dashboard for managing a social media platform. Built using **Next.js** with API integration, it enables admins to perform essential tasks such as **User Management**, **Content Moderation**, and **Analytics** with responsive charts and data visualization.
+
+---
+
+## 📝 Project Overview
+
+The Admin Dashboard provides an efficient way for platform admins to manage user data, moderate content, and monitor user engagement metrics. This dashboard fetches data from a remote API and displays it in a structured, interactive format.
+
+---
+
+## 🔗 API Endpoint
+
+The project uses the Admin Dashboard API:
+- **API URL**: [https://api.socialverseapp.com/admin/dashboard](https://api.socialverseapp.com/admin/dashboard)
+
+---
+
+## 🌟 Key Features
+
+- **👤 User Management**: Track user activity, view referrals, and identify active users or creators.
+- **📝 Content Moderation**: Monitor daily metrics such as views, shares, comments, and post exits.
+- **📊 Analytics**: View user activity and engagement metrics on a daily and monthly basis.
+- **📈 Data Visualization**: Includes responsive charts (using **Chart.js** or **Recharts**) for insights into user engagement and content performance.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: Next.js
+- **Styling**:  Styled Components
+- **Analytics Visualization**: Chart.js 
+- **Data Fetching**: React Query for API requests
+
+---
+
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Tim-Alpha/web-assignment.git
+cd web-assignment
 
 ```bash
 npm run dev
